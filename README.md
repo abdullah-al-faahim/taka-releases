@@ -33,8 +33,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.4/Taka-0.3.4.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
-      <sub>v0.3.4 · APK, 81 MB · Android 8.0 or newer</sub>
+      <a href="https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.5/Taka-0.3.5.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
+      <sub>v0.3.5 · APK, 81 MB · Android 8.0 or newer</sub>
     </td>
   </tr>
 </table>

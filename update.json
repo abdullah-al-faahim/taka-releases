@@ -1,7 +1,7 @@
 {
-  "version": "0.3.4",
-  "notes": "• Your cards now look like cards. On Wealth, a new Cards and passes section after your accounts shows each debit, credit and prepaid card as a card face with its bank logo, chip, last 4 digits and balance. Swipe through them and tap one to open it. They also stay in your accounts list.\n\n• Rapid Pass gets its own light blue card, with metro, bus and boat icons and its balance.\n\n• Cards can show their network. Edit a card and pick Visa, Mastercard, American Express, UnionPay, JCB, Diners Club or TakaPay, and its name appears on the card.\n\n• Budget, Wealth, Activity and Reports each show a short tour the first time you open them. Skip ends a tour at any step, and Skip on the first welcome card turns all tours off. Settings, About, App tour plays them all again.\n\n• Home is tidier: Expense, Income, Transfer and Lend sit right under your balance as small coloured buttons, then this month's income, spending and savings, then your accounts and cards.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.4 cannot be restored on an older version.",
-  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.4/Taka-0.3.4.apk",
+  "version": "0.3.5",
+  "notes": "• Your cards and Rapid Pass now show on Home too. Right after your accounts, Cards and passes shows each card as a card face with its balance, just like on Wealth. Swipe through them and tap one to open it.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.4 or newer cannot be restored on an older version.",
+  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.5/Taka-0.3.5.apk",
   "size": 85668474,
-  "sha256": "a56541f6c69119078b581c5a3eb5a7cfe8d0a067eddd94aa8c1c46eea3930971"
+  "sha256": "ad0a9779660d945c7a52fb02e2561a935773bba0dc3935dba34466b107836c87"
 }
