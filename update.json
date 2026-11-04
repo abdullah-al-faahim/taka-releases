@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "notes": "• Budget now sits right after Home in the bottom bar, and Wealth takes its old place: Home, Budget, add, Wealth, Activity.\n\n• Every main page has the same three buttons at the top: hide amounts, download the monthly report, and Settings. Hiding amounts on one page hides them everywhere.\n\n• On the Wealth overview, the net worth trend has moved to the bottom of the page, so your balance and accounts come first.\n\n• Delete all my data is no longer in Settings. To erase everything from this phone, uninstall the app or clear its storage in Android settings. The optional wipe after 10 wrong PINs stays.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.2.25 or newer cannot be restored on an older version.",
-  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.2/Taka-0.3.2.apk",
-  "size": 85437414,
-  "sha256": "71b8b3b1a83d3311d7e8ba9caa7609fd57ff822832e1cc1adec04d98dc592c88"
+  "version": "0.3.3",
+  "notes": "• Home now shows every account with its balance, right below the available balance card. Swipe sideways to see them all, and tap one to open its entries.\n\n• Your profile has its own page: add your profession, company, email, phone number and address. You can also upload your Bangla QR code image, show it full screen when someone pays you, save it to your phone or share it.\n\n• A debit card is now an account you can pay from. It shares its bank account's balance, so paying by card lowers both the card and the bank by the same amount, and the money is counted once.\n\n• A short tour of the app points out each part of Home and the tabs. It shows once, the first time you open this version. Skip it at any step if you know your way around. Settings, About, App tour plays it again.\n\n• Savings goals on Home have a green Add money button in place of the small plus icon.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.2.25 or newer cannot be restored on an older version.",
+  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.3/Taka-0.3.3.apk",
+  "size": 85553202,
+  "sha256": "625caaed7f1563a5d5d10dd5a89a3c3dcad1380f13d4f5cd8fbc1c37f11bd118"
 }
