@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/icon.png" width="112" alt="Taka icon">
+  <a href="https://github.com/abdullah-al-faahim/taka-releases/releases/latest"><img src="covers/cover-0.3.5.png" width="100%" alt="Taka 0.3.5: a private, offline money manager made for Bangladesh"></a>
 </p>
 
 <h1 align="center">Taka · টাকা</h1>
