@@ -1,7 +1,7 @@
 {
-  "version": "0.3.8",
-  "notes": "• Your daily spend limit now follows this month's income and changes every day. Each morning it is what is left of the income you received this budget month, after your spending so far, money put into savings, loans or lending, and this month's EMIs, DPS instalments, premiums and bills, shared over the days left. Spend less than today's limit and tomorrow's goes up; spend more and it goes down. Salary that comes in mid-month raises the limit the same day.\n\n• Paying an EMI or logging a monthly bill no longer counts against the day: they are set aside for the month from the start.\n\n• Budget, Home and Day by day show today's limit, tomorrow's limit so far and what is left for the month. Day by day also shows the limit each coming day gets. The monthly report shows the average daily limit, with each day's own limit in the table.\n\n• The daily limit is now a switch in the budget, not an amount you type. If you had one, it is already on and works the new way.\n\n• Saved this month is now what you have left beyond spending every day's limit exactly, so money carried from one day to the next is not counted twice. Moving savings to a goal takes it out of the days ahead. The streak of days within the limit starts again each budget month.\n\n• No income added this month yet? Add your salary or other income and your daily limit appears.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.6 or later cannot be restored on an older version.",
-  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.8/Taka-0.3.8.apk",
+  "version": "0.3.9",
+  "notes": "• Saved this month no longer goes below zero. When you have spent more than your daily limits allowed, it shows ৳0, and the overspending shows only in Over the limit and on each day in Day by day.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.6 or later cannot be restored on an older version.",
+  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.9/Taka-0.3.9.apk",
   "size": 85865330,
-  "sha256": "83dc20cbc8671d8401e05f693f75d39fa188010817f7745cc40ef2cd6640571b"
+  "sha256": "6edb584d643c476b9350eb18dd003c7118935f7cdf7d922a9279681a3587c019"
 }
