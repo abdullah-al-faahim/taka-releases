@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>Free · <a href="https://github.com/abdullah-al-faahim/taka-releases/releases">All versions</a></sub></p>
+<p align="center"><sub>Free · <a href="https://abdullah-al-faahim.github.io/taka-releases/">Website</a> · <a href="https://github.com/abdullah-al-faahim/taka-releases/releases">All versions</a> · <a href="https://abdullah-al-faahim.github.io/taka-releases/privacy.html">Privacy policy</a></sub></p>
 
 <p align="center"><b>iPhone:</b> the iOS version is in production and will be available very soon.</p>
 
