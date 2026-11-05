@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/abdullah-al-faahim/taka-releases/releases/latest"><img src="covers/cover-0.3.7.png" width="100%" alt="Taka 0.3.7: a private, offline money manager made for Bangladesh"></a>
+  <a href="https://github.com/abdullah-al-faahim/taka-releases/releases/latest"><img src="covers/cover-0.3.8.png" width="100%" alt="Taka 0.3.8: a private, offline money manager made for Bangladesh"></a>
 </p>
 
 <h1 align="center">Taka · টাকা</h1>
@@ -33,8 +33,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.7/Taka-0.3.7.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
-      <sub>v0.3.7 · APK, 82 MB · Android 8.0 or newer</sub>
+      <a href="https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.8/Taka-0.3.8.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
+      <sub>v0.3.8 · APK, 82 MB · Android 8.0 or newer</sub>
     </td>
   </tr>
 </table>
