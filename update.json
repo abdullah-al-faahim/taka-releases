@@ -1,7 +1,7 @@
 {
-  "version": "0.3.10",
-  "notes": "• Safe to spend today now matches your daily limit. On Home and Budget it is today's limit less what you have spent today, so the two never show different amounts. Paying an EMI or a bill no longer takes it to zero.\n\n• Writing off money you lent no longer counts against your daily limit. The money already left when you lent it.\n\n• The daily limit, day by day and recurring bills now work on phones set to a time zone that changes its clocks.\n\n• Interest earned so far on a savings plan that started on the 31st now counts from the right day.\n\n• In the monthly report, the accounts now add up to your net worth at the start and end of the month.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.6 or later cannot be restored on an older version.",
-  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.10/Taka-0.3.10.apk",
+  "version": "0.3.11",
+  "notes": "• A savings goal now spreads what is left over the months ahead, from next month up to the month of its target date. A goal due in April that you look at in November asks for one fifth each month, not one sixth. A goal due later this month asks for all of it now.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.6 or later cannot be restored on an older version.",
+  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.11/Taka-0.3.11.apk",
   "size": 85865330,
-  "sha256": "bd87d82a236c51d1c1007b43089d37da812b6f80b4740d6b4192807eea2a7d49"
+  "sha256": "c4040979a3cd1ad37151c097333ae3fc9138a629ca46ea5d61b061d419cfd5a2"
 }
