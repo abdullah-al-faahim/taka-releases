@@ -1,3 +1,21 @@
+/* Bangla in BCC Purno (Bangladesh Computer Council); Latin stays in Inter. */
+@font-face {
+  font-family: "BCC Purno";
+  src: url("fonts/bcc-purno-regular.woff") format("woff");
+  font-weight: 400 500;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+200C-200D, U+25CC;
+  size-adjust: 116%;
+}
+@font-face {
+  font-family: "BCC Purno";
+  src: url("fonts/bcc-purno-bold.woff") format("woff");
+  font-weight: 600 800;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+200C-200D, U+25CC;
+  size-adjust: 116%;
+}
+
 :root {
   --brand-50: #F5F1FF;
   --brand-100: #EAE1FF;
@@ -23,7 +41,7 @@
   --shadow: 0 1px 2px rgba(36, 32, 51, .05), 0 8px 24px rgba(36, 32, 51, .06);
   --phone-shadow: 0 24px 60px rgba(34, 10, 102, .22);
   --radius: 16px;
-  --font: "Inter", "Noto Sans Bengali", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font: "Inter", "BCC Purno", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   color-scheme: light;
 }
 
@@ -108,7 +126,7 @@ a:hover { text-decoration-thickness: 2px; }
   border: 1px solid var(--border); padding: 4px 12px; border-radius: 999px;
 }
 h1 { font-size: clamp(36px, 5.4vw, 58px); line-height: 1.08; letter-spacing: -.025em; margin: 18px 0 16px; }
-h1 .bn { font-family: "Noto Sans Bengali", var(--font); color: var(--primary); font-weight: 700; }
+h1 .bn { font-family: "BCC Purno", var(--font); color: var(--primary); font-weight: 700; }
 .lede { font-size: clamp(17px, 2vw, 19px); color: var(--muted); max-width: 34em; margin: 0 0 28px; }
 .cta { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
 .meta { font-size: 14px; color: var(--muted); margin: 12px 0 0; }
@@ -215,5 +233,5 @@ footer a { color: var(--muted); }
 .lang { display: flex; gap: 8px; margin: 8px 0 24px; }
 .lang a { text-decoration: none; padding: 6px 14px; border-radius: 999px; border: 1px solid var(--border); color: var(--fg); font-size: 14px; font-weight: 600; }
 .lang a:hover { background: var(--surface-tint); }
-.bn-text { font-family: "Noto Sans Bengali", var(--font); line-height: 1.8; }
+.bn-text { font-family: "BCC Purno", var(--font); line-height: 1.8; }
 hr { border: 0; border-top: 1px solid var(--border); margin: 48px 0; }
