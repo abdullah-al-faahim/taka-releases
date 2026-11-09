@@ -1,7 +1,7 @@
 {
-  "version": "0.3.13",
-  "notes": "• New Bangla font: Bangla text in the app now uses BCC Purno, the same font as the website. English text keeps your phone's font.\n\n• A category or the monthly total spent exactly to its limit now shows a green bar and a green tick. Only spending past the limit shows red.\n\n• Developed by Abdullah Al Fahim in Settings, About now opens the developer's website.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.6 or later cannot be restored on an older version.",
-  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.13/Taka-0.3.13.apk",
-  "size": 85744802,
-  "sha256": "bb5601f08a5ca5a18ab7c9626d1ca60e2700c94a12c8ac7c797d4f71d9c90f30"
+  "version": "0.3.14",
+  "notes": "• Bangla text is now as large as English text. In 0.3.13 the new BCC Purno font made Bangla look much smaller; its letters are now drawn 20% larger, so both read at the same size.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.6 or later cannot be restored on an older version.",
+  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.14/Taka-0.3.14.apk",
+  "size": 85750962,
+  "sha256": "a48ea5b9c40120418ee9282d7feb08b9f7c5f4e3758839ff935d608654d59788"
 }
