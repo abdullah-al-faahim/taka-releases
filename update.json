@@ -1,7 +1,7 @@
 {
-  "version": "0.3.11",
-  "notes": "• A savings goal now spreads what is left over the months ahead, from next month up to the month of its target date. A goal due in April that you look at in November asks for one fifth each month, not one sixth. A goal due later this month asks for all of it now.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.6 or later cannot be restored on an older version.",
-  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.11/Taka-0.3.11.apk",
-  "size": 85865330,
-  "sha256": "c4040979a3cd1ad37151c097333ae3fc9138a629ca46ea5d61b061d419cfd5a2"
+  "version": "0.3.12",
+  "notes": "• Daily limit from your available balance: a new switch in Budget, Edit. When it is on, each day's limit comes from the money ready to spend, less this month's EMIs, instalments, premiums and bills still to pay. When it is off, it follows this month's income as before.\n\n• DPS instalments can pay themselves. Open a DPS, pick the account to pay from and turn on Pay instalments automatically. Each instalment is paid on its due date, and a weekly DPS every week on its day.\n\n• A DPS added earlier with an account to pay from could show less than you have deposited, or 0. The instalments paid before you started using the app are now counted, and the DPS card and its page show the same balance.\n\n• Progress bars on savings now fill by the instalments paid for a DPS and by days for the rest, so a new plan no longer shows no progress.\n\n• A loan with nothing left to pay now closes by itself.\n\n• Better on small phones: the number pad no longer covers the screen above it, the bottom bar and the balance card take less room, and buttons that were cut off now fit.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.6 or later cannot be restored on an older version.",
+  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.12/Taka-0.3.12.apk",
+  "size": 85898098,
+  "sha256": "eb9fc7dca414f1379bf8be80b731630a84f6e4f703a1d81272939cce87f4e2bc"
 }
