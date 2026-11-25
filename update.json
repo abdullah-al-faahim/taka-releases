@@ -1,7 +1,7 @@
 {
-  "version": "0.3.14",
-  "notes": "• Bangla text is now as large as English text. In 0.3.13 the new BCC Purno font made Bangla look much smaller; its letters are now drawn 20% larger, so both read at the same size.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.6 or later cannot be restored on an older version.",
-  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.14/Taka-0.3.14.apk",
-  "size": 85750962,
-  "sha256": "a48ea5b9c40120418ee9282d7feb08b9f7c5f4e3758839ff935d608654d59788"
+  "version": "0.3.15",
+  "notes": "• Refunds for purchases. Cancelled a bus, train or air ticket, a hotel booking or a pre-order, or returned something you bought online? Record the money that came back against the purchase. Tap + and then Refund for a purchase, or open the purchase and tap Record a refund.\n\n• Pick the purchase from your past entries (search by note, category, account or amount), type the money that came back, and pick the account it came into. If the seller cut a charge, the app shows it: a 2,000 taka ticket with 1,800 back keeps 200 as the charge.\n\n• Money back lowers spending in the purchase's category in the month it arrives, and counts as money you can spend that day. It is not counted as income. One purchase can have more than one refund, never more than you paid.\n\n• A purchase shows what came back and what did not, and a refund links to its purchase.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.3.15 cannot be restored on an older version.",
+  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.15/Taka-0.3.15.apk",
+  "size": 85914950,
+  "sha256": "3d1470ad0b19455cfa84f00c7768b45a997349af6f7e83e1aecef4857051f610"
 }
